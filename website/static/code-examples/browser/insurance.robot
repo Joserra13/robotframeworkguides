@@ -25,11 +25,11 @@ Enter Vehicle Data for Automobile
     Click    div.main-navigation >> "Automobile"
     Select Options By    id=make    text    Audi
     Fill Text    id=engineperformance    110
-    Fill Text    id=dateofmanufacture    06/12/1980
     Select Options By    id=numberofseats    text    5
     Select Options By    id=fuel    text    Petrol    
     Fill Text    id=listprice    30000
     Fill Text    id=licenseplatenumber    DMK1234
+    Fill Text    id=dateofmanufacture    06/12/1980
     Fill Text    id=annualmileage   10000 
     Click    section[style="display: block;"] >> text=Next »
 
